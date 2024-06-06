@@ -48,7 +48,7 @@
 </head>
 
 <body>
-<!--    Header section-->
+
 <div id="header" class="bg bg-dark text text-white text-center" style="height: 50px; padding-top: 10px; font-size: 20px;">
 COVID-19 DETAILS
 </div>

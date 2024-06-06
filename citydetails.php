@@ -102,7 +102,7 @@ $city_data = callApi($city_name);
             var geocoder = new google.maps.Geocoder();
             var mapOptions = {
                 zoom: 10,
-                center: { lat: 0, lng: 0 } // Default center (change as needed)
+                center: { lat: 0, lng: 0 } 
             };
             var map = new google.maps.Map(document.getElementById("map"), mapOptions);
             var address = "<?php echo htmlspecialchars($city_name); ?>";

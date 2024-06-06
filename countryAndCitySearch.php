@@ -30,7 +30,7 @@
 </head>
 
 <body>
-    <!-- Header section -->
+    
     <div class="header">
     COVID-19 DETAILS
     </div>

@@ -10,7 +10,7 @@ $data = json_decode(file_get_contents($path), true);
 <html>
 
 <head>
-    <!--Link bootstrap file-->
+    
     <meta charset="UTF-8">
     <title>Countries Details</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"

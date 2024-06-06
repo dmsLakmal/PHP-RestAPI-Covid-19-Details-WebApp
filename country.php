@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <!-- Header section -->
+    
     <div id="header" class="bg-dark text-white text-center py-2" style="font-size: 20px;">
     COVID-19 DETAILS
     </div>
