@@ -32,7 +32,7 @@
 <body>
     <!-- Header section -->
     <div class="header">
-        Covid-19 Details
+    COVID-19 DETAILS
     </div>
 
     <!-- Navigation section -->

@@ -21,7 +21,7 @@
 
 <body>
     <!-- Header section -->
-    <div id="header" class="bg-dark text-white text-center py-2" style="font-size: 20px;">COVID-19 Details</div>
+    <div id="header" class="bg-dark text-white text-center py-2" style="font-size: 20px;">COVID-19 DETAILS</div>
     <!-- Navigation section -->
     <div style="text-align: right; padding-right: 10px; padding-top: 25px;">
         <a href="home.php" class="l1" style="font-size: 16px; margin-right: 10px;">Home</a>
