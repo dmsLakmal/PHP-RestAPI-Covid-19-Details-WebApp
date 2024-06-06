@@ -50,7 +50,7 @@
 <body>
 <!--    Header section-->
 <div id="header" class="bg bg-dark text text-white text-center" style="height: 50px; padding-top: 10px; font-size: 20px;">
-Covid-19 Details
+COVID-19 DETAILS
 </div>
 <!--    Navigation section    -->
 <div style="text-align: right; padding-right: 10px; padding-top: 25px;">

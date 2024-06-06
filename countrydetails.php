@@ -20,7 +20,7 @@ $data = json_decode(file_get_contents($path), true);
 <body>
     <!-- Header section -->
     <div id="header" class="bg bg-dark text text-white" style="text-align:center; height:50px; text-align:center; padding-top:10px;
-        font-size: 20px;">Covid-19 Details
+        font-size: 20px;">COVID-19 DETAILS
     </div>
     <!-- Navigation section -->
     <div style="text-align: right; padding-right: 10px; padding-top: 25px  ">
